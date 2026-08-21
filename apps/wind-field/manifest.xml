@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<iq:manifest xmlns:iq="http://www.garmin.com/xml/connectiq" version="3">
+    <iq:application
+        entry="WindFieldApp"
+        id="5c992f8a70a04f66bc489ad1118e7472"
+        launcherIcon="@Drawables.LauncherIcon"
+        minSdkVersion="3.1.0"
+        name="@Strings.AppName"
+        type="datafield"
+        version="0.1.0">
+        <iq:products>
+            <iq:product id="edge540"/>
+        </iq:products>
+        <iq:permissions>
+            <iq:uses-permission id="Communications"/>
+            <iq:uses-permission id="Positioning"/>
+        </iq:permissions>
+        <iq:languages>
+            <iq:language>eng</iq:language>
+        </iq:languages>
+    </iq:application>
+</iq:manifest>

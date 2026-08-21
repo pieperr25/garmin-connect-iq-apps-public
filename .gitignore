@@ -1,0 +1,15 @@
+# Connect IQ build output
+**/bin/
+**/build/
+**/*.prg
+**/*.iq
+**/*.debug.xml
+
+# Developer signing keys must stay local
+*.der
+*.pem
+*.key
+
+# Editor and OS files
+.DS_Store
+**/.vscode/settings.json

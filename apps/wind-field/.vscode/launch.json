@@ -1,0 +1,12 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "monkeyc",
+      "request": "launch",
+      "name": "Run Wind Field on Edge 540",
+      "stopAtLaunch": false,
+      "device": "edge540"
+    }
+  ]
+}
