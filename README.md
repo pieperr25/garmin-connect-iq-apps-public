@@ -18,5 +18,4 @@ docs/       Shared design and setup notes
 tools/      Local validation helpers
 ```
 
-The apps are intended for private sideloading. Publishing to the Connect IQ Store
-is optional.
+The apps are intended for private sideloading.
